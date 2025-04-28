@@ -1,0 +1,9 @@
+.RData
+.RHistory
+
+.Rproj
+.Rproj.user
+
+__pycache__
+.venv
+practice
